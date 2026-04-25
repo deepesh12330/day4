@@ -10,3 +10,10 @@ git branch dev
 git switch dev
 git status
 
+git remote add origin https://github.com/deepesh12330/day4.git
+  13 git remote -v
+  14 git remote set-url origin https://deepesh12330/day4.git
+  15 git remote -v
+  16 git push origin master
+  17 git clone
+  18 cls
